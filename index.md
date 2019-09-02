@@ -1,4 +1,10 @@
 # Abitha Devendran's First CS193 Homework
+
+## My Favorite Things About CS193
+- The instructors are super funny so that's always a plus!
+- I love the iClicker quizzes, truly a mind game.
+- The vibe of the class makes it fun to come to!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
